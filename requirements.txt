@@ -1,1 +1,3 @@
-pip install supabase
+supabase
+urllib3
+streamlit
